@@ -2,9 +2,19 @@
 
 💻 Full Stack Developer  
 
-## 🔧 Skills
+## 💻 Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,spring" />
+</p>
+
+## 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+## 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 🚀 Projects:
