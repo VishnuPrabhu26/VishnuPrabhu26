@@ -2,20 +2,20 @@
 
 💻 Full Stack Developer  
 
-## 💻 Skills
+## 🔧 Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,spring" />
-</p>
-
-## 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,bootstrap,spring,mysql,mongodb" />
 </p>
 
 ## 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
 </p>
+
+## ⚙️ Backend Concepts
+- REST APIs  
+- CRUD Operations  
+- Hibernate (JPA)
 
 🚀 Projects:
 - E-commerce Web Application  
