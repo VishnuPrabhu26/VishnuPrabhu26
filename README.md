@@ -12,5 +12,5 @@
 - System Design  
 
 📫 Contact:
-- Email: yourmail@gmail.com  
+- Email: avkvishnu2000@@gmail.com  
 - Portfolio: https://vishnuprabhu26.github.io/
