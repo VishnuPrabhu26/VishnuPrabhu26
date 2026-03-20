@@ -17,14 +17,26 @@
 - CRUD Operations  
 - Hibernate (JPA)
 
-🚀 Projects:
-- E-commerce Web Application  
-- Student Management System  
+## 🚀 Projects
 
-🌱 Currently learning:
+### 🛒 Movisx – E-commerce Web Application
+- Built full-stack app using Spring Boot, React, MySQL  
+- Features: Authentication, Product Listing, Cart System  
+- Developed REST APIs and integrated frontend + backend  
+- 💻 Code: Coming soon
+
+---
+
+### 🎓 Student Management System
+- CRUD-based application using Spring Boot  
+- Managed student data with MySQL  
+- Implemented REST APIs for operations  
+- 💻 Code: Coming soon
+
+## 🌱 Currently Learning
 - Advanced Spring Boot  
 - System Design  
 
-📫 Contact:
+## 📫 Contact
 - Email: avkvishnu2000@gmail.com  
 - Portfolio: https://vishnuprabhu26.github.io/
