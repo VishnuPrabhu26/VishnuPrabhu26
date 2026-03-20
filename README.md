@@ -1,7 +1,11 @@
 # Hi 👋, I'm Vishnu Prabhu
 
 💻 Full Stack Developer  
-🔧 Java | Spring Boot | React | MySQL  
+
+## 🔧 Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,git,github" />
+</p>
 
 🚀 Projects:
 - E-commerce Web Application  
@@ -12,5 +16,5 @@
 - System Design  
 
 📫 Contact:
-- Email: avkvishnu2000@@gmail.com  
+- Email: avkvishnu2000@gmail.com  
 - Portfolio: https://vishnuprabhu26.github.io/
